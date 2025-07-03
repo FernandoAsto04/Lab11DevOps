@@ -1,0 +1,4 @@
+name = "python-worker"          # nombre del worker
+main = "entry.py"
+compatibility_date = "2025-07-01"
+compatibility_flags = ["python_workers"]   #  flag obligatoria
